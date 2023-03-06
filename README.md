@@ -1,6 +1,7 @@
 # LoginPage-In-Android
 
-aCTİVİTYLER ARASINDA VERİ ALIŞVERİŞİ INTENT İLE GERÇEKLEŞTİRİLMİŞTİR
+<span style="color: green">ACTIVITYLER ARASINDA VERI ALISVERISI INTENT ILE GERCEKLESTIRILMISTIR </span>
+
 
 
 ![MainPage](https://user-images.githubusercontent.com/64737567/223244045-82eb75c8-4f07-4113-99a1-1893ae3d3098.png)
