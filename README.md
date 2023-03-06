@@ -1,5 +1,5 @@
 # LoginPage-In-Android
-
+<font color="green"> Some green text </font>
 <span style="color: green">ACTIVITYLER ARASINDA VERI ALISVERISI INTENT ILE GERCEKLESTIRILMISTIR </span>
 
 
